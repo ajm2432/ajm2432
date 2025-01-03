@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Austin Miller 🌐
+# 👋 Hi there! I'm Austin Miller 
 
 Welcome to my GitHub! 🚀 I'm a **Cloud Infrastructure Engineer**, **Software Enthusiast**, and the **Founder of Intellifii**, an AI platform designed for businesses to leverage multi-model options with different LLMs without needing engineers to build it.
 
