@@ -1,6 +1,9 @@
 # 👋 Hi there! I'm Austin Miller 
 
-Welcome to my GitHub! 🚀 I'm a **Cloud Infrastructure Engineer**, **Software Enthusiast**, and the **Founder of Intellifii**, an AI platform designed for businesses to leverage multi-model options with different LLMs without needing engineers to build it.
+# Welcome to my GitHub! 
+
+I'm a **Cloud Infrastructure Engineer** and **Software Enthusiast** passionate about building scalable solutions.
+
 
 ## 🌟 About Me
 
@@ -8,10 +11,6 @@ Welcome to my GitHub! 🚀 I'm a **Cloud Infrastructure Engineer**, **Software E
 - 💻 Build full-stack apps with **React**, **Next.js**, and **TypeScript**.
 - 🔧 Skilled in **Kubernetes**, **Terraform**, and CI/CD pipelines.
 - 🛠 Focused on creating secure, scalable systems.
-
-## 💡 About Intellifii
-
-Intellifii empowers businesses by offering a flexible AI platform with multi-model support for tailored LLM solutions, enhancing productivity and decision-making.
 
 ## 💻 Skills & Tools
 
@@ -28,12 +27,8 @@ Intellifii empowers businesses by offering a flexible AI platform with multi-mod
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
-## 🌱 Currently Learning
-
-- AI integrations and **LLM-based AI Agents**. 🤖
 
 ## 📫 Let's Connect!
 
 - **Email**: [amiller.craig@gmail.com](mailto:amiller.craig@gmail.com)
 - **LinkedIn**: [Austin Miller](https://www.linkedin.com/in/austin-miller-064b45128/)
-- **Intellifii** [Check us Out!](https://intellifii.com)
