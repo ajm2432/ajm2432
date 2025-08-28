@@ -8,7 +8,6 @@ I'm a **Cloud Infrastructure Engineer** and **Software Enthusiast** passionate a
 ## 🌟 About Me
 
 - ☁️ Expertise in **AWS**, **GCP**, and **Azure**.
-- 💻 Build full-stack apps with **React**, **Next.js**, and **TypeScript**.
 - 🔧 Skilled in **Kubernetes**, **Terraform**, and CI/CD pipelines.
 - 🛠 Focused on creating secure, scalable systems.
 
